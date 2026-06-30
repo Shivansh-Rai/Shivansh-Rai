@@ -24,11 +24,7 @@
 <a href=#><img src="contributions.svg"></a> 
  </p>
 
- 
-<p align="center"> 
- 🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
-  <img src="https://profile-counter.glitch.me/parulchaddha/count.svg"/>
-  </p>
+
   
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh-rai&theme=gotham&layout=compact"width="47%"/> 
