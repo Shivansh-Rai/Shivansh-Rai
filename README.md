@@ -3,11 +3,11 @@
 <!-- ========================================================= -->
 
 <h1 align="center">
-  Hi 👋, I'm Shivansh Rai
+  Hi 👋, I'm Shivansh
 </h1>
 
 <h3 align="center">
-Software Engineer • Full Stack Developer • AI Enthusiast
+Software Engineer • Full Stack Developer • AI Engineer
 </h3>
 
 <p align="center">
@@ -139,13 +139,6 @@ Daily Data Structures & Algorithms solutions with clean explanations and optimiz
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivansh-rai&theme=algolia&no-frame=true&row=1&column=7" />
-</p>
-
----
 
 # 🚀 Currently Learning
 
@@ -206,7 +199,7 @@ Daily Data Structures & Algorithms solutions with clean explanations and optimiz
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:shivanshrai2316@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -215,16 +208,13 @@ Daily Data Structures & Algorithms solutions with clean explanations and optimiz
 ---
 
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shivansh-rai/shivansh-rai/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/shivansh-rai/shivansh-rai/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-
 ---
-
-
 
 # 📊 Coding Activity
 
@@ -250,17 +240,6 @@ while (!success)
 }
 ```
 
----
-
-# 📈 Developer Mindset
-
-```text
-✓ Build consistently
-✓ Learn continuously
-✓ Share knowledge
-✓ Solve real-world problems
-✓ Never stop improving
-```
 
 ---
 
