@@ -32,13 +32,13 @@ I enjoy building scalable web applications, AI-powered products, and developer t
 
 I love transforming ideas into polished, production-ready applications while continuously learning new technologies and best engineering practices.
 
-### 🚀 Current Focus
+### Current Focus
 
-- 🔭 Building scalable Full Stack applications
-- 🤖 Exploring Artificial Intelligence & LLMs
-- 🌐 Open Source Contributions
-- ⚡ Learning DevOps & System Design
-- 💻 Preparing for Software Engineering roles
+-  Building scalable Full Stack applications
+-  Exploring Artificial Intelligence & LLMs
+-  Open Source Contributions
+-  Learning DevOps & System Design
+-  Preparing for Software Engineering roles
 
 ---
 
@@ -51,33 +51,13 @@ AI-powered learning platform helping thousands of students stay consistent with 
 ### Highlights
 
 - Daily Challenge System
+- AI Interviewer 
+- Recruiter Hiring 
 - AI Integration
-- Authentication
-- Leaderboards
-- Modern UI
-- Full Stack Architecture
-
+- Evidence Based Profile 
+- Challenges and Cohorts to enrol
 ---
 
-## 💼 Portfolio Website
-
-A modern portfolio built with Next.js showcasing projects, skills and experience.
-
-### Features
-
-- Responsive Design
-- Smooth Animations
-- Dark Theme
-- Performance Optimized
-- SEO Friendly
-
----
-
-## 📚 DSA Repository
-
-Daily Data Structures & Algorithms solutions with clean explanations and optimized approaches.
-
----
 
 # 🛠 Tech Stack
 
